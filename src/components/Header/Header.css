@@ -9,7 +9,7 @@
 .header-menu{
     list-style: none;
     display: flex;
-    gap: 2rem;
+    gap: 2.5rem;
     color: white;
 }
 .header-menu>li:hover{
