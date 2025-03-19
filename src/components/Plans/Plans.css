@@ -60,7 +60,7 @@
 .feature{
      display: flex;
      align-items: center;
-     gap: 1rem;
+     gap: 1.2rem;
 }
 .feature>img{
     width: 1rem;
