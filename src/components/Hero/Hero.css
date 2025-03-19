@@ -156,7 +156,7 @@
 
 .calories{
     display: flex;
-    gap: 2rem;
+    gap: 2.5rem;
     background-color: var(--caloryCard);
     border-radius: 5px;
     padding: 1rem;
