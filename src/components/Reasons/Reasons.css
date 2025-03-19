@@ -53,7 +53,7 @@
 .details-r{
     display: flex;
     flex-direction: column;
-    gap: 1rem;
+    gap: 1.1rem;
 }
 .details-r>div{
     display: flex;
