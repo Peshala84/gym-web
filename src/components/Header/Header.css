@@ -26,7 +26,7 @@
     .header-menu{
         flex-direction: column;
         background-color: var(--appColor);
-        padding: 2rem;
+        padding: 2.1rem;
     }
     
     
