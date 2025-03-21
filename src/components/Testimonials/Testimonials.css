@@ -39,7 +39,7 @@
 }
 .right-t>:nth-child(1){
     position: absolute;
-    width: 17rem;
+    width: 17.1rem;
     height: 20rem;
     border: 2px solid var(--orange);
     background-color: transparent;
