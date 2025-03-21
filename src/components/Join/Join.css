@@ -32,7 +32,7 @@
 }
 .email-conatiner{
     display: flex;
-    gap: 3rem;
+    gap: 3.1rem;
     background-color: gray;
     padding: 1rem 2rem;
 }
