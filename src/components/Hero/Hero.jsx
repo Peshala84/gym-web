@@ -57,14 +57,14 @@ const Hero = () => {
                         <NumberCounter end={140} start={100} delay='4' preFix="+"/>
 
                         </span>
-                        <span>members joined</span>
+                        <span>Members joined</span>
                     </div>
                     <div>
                         <span>
                         <NumberCounter end={140} start={100} delay='4' preFix="+"/>
 
                         </span>
-                        <span>fitness programs</span>
+                        <span>Fitness programs</span>
                     </div>
                 </div>
                 <div className="hero-buttons">
