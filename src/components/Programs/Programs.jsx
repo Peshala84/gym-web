@@ -8,7 +8,7 @@ const Programs = () => {
         <div className="Programs-header">
             <span className='stroke-text'>Explore our</span>
             <span>Programs</span>
-            <span className='stroke-text'>to shape you</span>
+            <span className='stroke-text'>To shape you</span>
         </div>
 
         <div className="program-categories">
