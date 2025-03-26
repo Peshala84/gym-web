@@ -21,7 +21,7 @@
 }
 .left-j>div{
     display: flex;
-    gap: 1rem;
+    gap: 1.0rem;
 
 }
 .right-j{
