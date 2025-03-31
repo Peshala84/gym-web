@@ -66,7 +66,7 @@ const header = () => {
            to='testimonials'
             spy={true}
             smooth={true}
-          >Testimonials</Link>
+          >Testimonial</Link>
         </li>
       </ul>
 
